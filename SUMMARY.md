@@ -1,6 +1,6 @@
-# 목장일기 위키
+# Table of contents
 
-* [🏠 서버 소개](README.md)
+* [🌿 서버 소개](README.md)
 * [📜 서버 규칙](rules.md)
 * [🧭 길라잡이](guide.md)
 * [📚 특성책](traits.md)
